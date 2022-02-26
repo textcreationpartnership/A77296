@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise of the high rebellion of man against God in blasphemy: shewing what it is according to God in the law. And proving, that men not knowing the sin, come daily to commit it, without the sense thereof. With an examination of an ordinance made by the Lords, and the Act made by the late Parliament against the same. Written by an unworthy witness of the name and soveraignty of the Jehovah elohims, John Brayne.</title>
+            <author>Brayne, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77296</idno>
+            <idno type="STC">Wing B4333</idno>
+            <idno type="STC">Thomason E725_22</idno>
+            <idno type="STC">ESTC R206776</idno>
+            <idno type="EEBO-CITATION">99865882</idno>
+            <idno type="PROQUEST">99865882</idno>
+            <idno type="VID">118134</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118134)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E725[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise of the high rebellion of man against God in blasphemy: shewing what it is according to God in the law. And proving, that men not knowing the sin, come daily to commit it, without the sense thereof. With an examination of an ordinance made by the Lords, and the Act made by the late Parliament against the same. Written by an unworthy witness of the name and soveraignty of the Jehovah elohims, John Brayne.</title>
+                  <author>Brayne, John.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Moon, at the seven stars in Paul's Church-yard, neer the great North-door.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653. [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: John Brayne.</note>
+                  <note>Annotation on Thomason copy: "Jan. 5.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Blasphemy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118134:1" rendition="simple:additions"/>
+            <p>A TREATISE OF THE High Rebellion of Man againſt GOD In Blaſphemy:</p>
+            <p>Shewing what it is according to God in the LAW. And proving, that men not knowing the Sin, come daily to commit it, without ſenſe thereof.</p>
+            <p>WITH An Examination of an ORDINANCE made by the LORDS, and the ACT made by the late Parliament againſt the ſame.</p>
+            <p>Written by an unworthy witneſs of the Name and Sove<g ref="char:EOLhyphen"/>raignty of the JEHOVAH Elohims, JOHN BRAYNE.</p>
+            <q>
+               <bibl>Rabbi Eliezer.</bibl>
+               <p>We ſay that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Elohim</hi> in every place ſignifieth <hi>judge<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Numb. 15.30, 31.</bibl>
+               <p>The ſoul that doth ought preſumptuouſly, whether he be born in the land, or a ſtranger, the ſame reproacheth the Lord; and that ſoul ſhall be cut off from the people, becauſe he hath deſpiſed the word of the Lord, and hath broken his command. That ſoul ſhall utterly be cut off; his iniquity ſhall be upon him.</p>
+            </q>
+            <q>
+               <bibl>1 Sam. 15.23.</bibl>
+               <p>Rebellion is as the ſin of witchcraft, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Acts 19.37.</bibl>
+               <p>Ye have brought hither theſe men, which are neither ſacrilegious perſons, nor blaſphemers of your goddeſs.</p>
+            </q>
+            <q>
+               <bibl>Gal. 4.16.</bibl>
+               <p>Am I therefore become your enemy, becauſe I tell you the truth?</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Moon,</hi> at the ſeven ſtars in <hi>Paul</hi>'s Church-yard, neer the great North-door. 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118134:2"/>
+            <head>To his Excellencie <hi>The Lord General</hi> CROMWEL, and to his honourable Councel.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am emboldened to deſire your approbation of this enſuing Treatiſe: in all ten<g ref="char:EOLhyphen"/>derneſs of heart, humble<g ref="char:EOLhyphen"/>neſs of minde, and ſincerity of love and affection I pre<g ref="char:EOLhyphen"/>ſent it to you. In which I commend to your conſiderations the moſt weighty Caſe of Blaſphemy: and the rather, in that I ſee the wiſe of the world are at a to-be-admired loſs about the nature and being of it; the moſt wiſe God, as by a veil, having hid it from their eyes; whoſe glory is moſt neerly con<g ref="char:EOLhyphen"/>cerned therein. And your ſelves are never able to diſcharge your truſt to God or Men,
+<pb facs="tcp:118134:3"/>but in your conſcionable declining of it with fear in your ſelves, and ſuppreſſing it in others.</p>
+            <p>I have no more to commend to you, but my remembrances of you to God, that he would ſanctifie you to the great work he hath to do in the world; and that he would alſo direct you in the way thereof, and enlarge your hearts thereunto, <hi>that glory may dwell in our land;</hi> that your ſelves may be accepted with, and ſaved of the Lord, in the day of ſalvation, and the people (as they are capa<g ref="char:EOLhyphen"/>ble) by you.</p>
+            <p>And ſo reſting, I remain, as I am bound in duty, to be a faithful well-wiſher to you all, and to all in the nation under you; ſubſcri<g ref="char:EOLhyphen"/>bing my ſelf</p>
+            <closer>
+               <dateline>From <hi>Winton,</hi> 
+                  <date>
+                     <hi>Novemb.</hi> 22. 1653.</date>
+               </dateline>
+               <signed>Your ſervant and theirs in the truths of God, <hi>John Brayne.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118134:3"/>
+            <head>A Treatiſe of the high Rebellion of MAN againſt GOD in BLASPHEMY.</head>
+            <p>
+               <seg rend="decorInit">B</seg>LASPHEMY is againſt God, as it oppoſeth his So<g ref="char:EOLhyphen"/>veraignty and revealed will in the Law, made inglorious by it in his Attributes.</p>
+            <p>Or, 2. as it oppoſeth Gods love in Chriſt revealed in the Goſpel, <hi>Jam.</hi> 2.7. 1 <hi>Tim.</hi> 1.13.</p>
+            <p>Or, 3. as it oppoſeth the glory of God revealed in the operations of the Holy Spirit, as in <hi>Matth.</hi> 12.24, 31. <hi>Mark</hi> 3.29, 30.</p>
+            <p>It's onely Blaſphemy that oppoſeth God in his Soveraignty and Rule, or will in the Law, that is intended in this Treatiſe, in that it concerns the Magiſtrate onely.</p>
+            <p>This Blaſphemy is of two kindes, and forbidden under two of the Com<g ref="char:EOLhyphen"/>mands.</p>
+            <list>
+               <item>1. There is Blaſphemy that is directly againſt Jehovah Elohims, or the Lord God in himſelf, which is forbidden in the firſt Command, and oppo<g ref="char:EOLhyphen"/>ſeth his Soveraignty.</item>
+               <item>2. There is Blaſphemy againſt God in his Name, that is, in his autho<g ref="char:EOLhyphen"/>rity, his Power, his Juſtice, his Law, his Government: and this is forbid<g ref="char:EOLhyphen"/>den in the third Command. Under which two heads or Commands, all Blaſphemy that concerns the Magiſtrate to judge is comprehended: for the Law makes no other Blaſphemers but theſe.</item>
+            </list>
+            <p>Blaſphemy is in Scripture expreſſed by three words.</p>
+            <p n="1">1. By <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies lightneſs, diſ-eſteem, or vilifying of a thing; and in this is oppoſed to the Hebrew <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſig<g ref="char:EOLhyphen"/>nifies weight and glory.</p>
+            <pb n="2" facs="tcp:118134:4"/>
+            <p>It ſignifies curſing, and is oppoſed to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, bleſſing, <hi>Gen.</hi> 27.11. which word is uſed to ſet out the evil wiſhes and contempt of in<g ref="char:EOLhyphen"/>feriours towards the ſuperiour in his perſon and rule.</p>
+            <p n="2">2. By <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, whoſe primary ſignification is to bore, or to make hollow a thing; in which is a taking away the pith or ſubſtance of it, and leaving it nothing but the rinde or bark: and this word is uſed to ſet out blaſphemy againſt the Name, that is, the authority, the power, the juſtice, the ſufficiencie of the law and government of God.</p>
+            <p>Both which are expreſſed, <hi>Levit.</hi> 24.15, 16.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Whatever man ſhall vilifie,</hi> lightly eſteem, or diſhonour <hi>his Elohims, his ſin ſhall be upon him.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or ſhall make empty or nothing the Name, the Authority, or Law and Government of God, ſhall ſurely die.</p>
+            <p>Which is a blaſphemy or evil ſpeaking committed daily among us, without fear, or remorſe of conſcience: yet ye ſee it is ſuch a ſin, that not a pecuniary mulct or bodily impriſonment inflicted on Blaſphemers by Civil Sanctions (if I may ſo call them) doth ſuffice, but certain death: for which among men is no Law, and ſo men committing it daily are not reputed tranſgreſſors.</p>
+            <p>So that that that is indeed blaſphemy is not puniſhed, and that that is not blaſphemy is puniſhed for it, not with the puniſhment of blaſphemy according to God, but ſuch as men allow of. When ſure, were that is bla<g ref="char:EOLhyphen"/>ſphemy puniſhed according to God, the other horrid execrations among men would quickly be done away from among men in the land, God ſan<g ref="char:EOLhyphen"/>ctifying his own Inſtitutions thereunto; when mens prudential rules prove nothing at all effective. Blaſphemy againſt God being as he hath inſtituted puniſhed, would bring an awe and a fear of Himſelf and Name, ſo as that men would tremble to trample his glory under foot, or name him but in reverence. God will be found in his own way, but not in man's. Man's juſtly deſerve to be blaſted, becauſe they neglect the Lord and his law: <hi>God honouring thoſe honour him, when thoſe ſlight him ſhall be lightly regarded.</hi>
+            </p>
+            <p>But to the firſt word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and how it is uſed in the caſe of Blaſphemy in the Scriptures.</p>
+            <p n="1">1. As it repreſents God himſelf in the firſt Command, it ſhews that no man is to ſlight, diſhonour, or vilifie Jehovah, as he is Lord and King, or to make light of him.</p>
+            <p n="1">1. It is committed in rejecting him, with thoſe, <hi>Luke</hi> 19.14. <hi>We will not have this man to reign over us:</hi> verſ. 27. which were to be deſtroyed by the Goſpel, as the Kings enemies.</p>
+            <p n="2">2. Or, as the Iſraelites deſired to have a King as the Gentiles. Which though then God did not ſo ſeverely puniſh, it a greeing with his will, thereby to ſet up Types to men of his Son: but now to do it, were more ſinful.</p>
+            <pb n="3" facs="tcp:118134:4"/>
+            <p n="3">3. But perfected, in that they alleadge for the cauſe why God ſhould not be King, in the two firſt. Contradiction comes in the laſt, to fill the ſin of Blaſphemy up in the meaſure of it.</p>
+            <p>As to ſay, We would not have God reign, becauſe he is ſo ſevere. So the man in the Goſpel ſayd he knew he was <hi>an auſtere man, and reaped where he ſowed not, Matth.</hi> 25.24. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>an hard man, who alſo gathe<g ref="char:EOLhyphen"/>red where he ſtrawed not.</hi> In which indeed blaſphemy is committed againſt God, if it be ſpoke againſt him as King and Lord of a people: and a man doth for ſuch-like ſayings deſerve death by the Law. And doubtleſs the Egyptian, <hi>Levit.</hi> 24.15. in his blaſpheming God, ſayd no more.</p>
+            <p>Or if it be underſtood <hi>curſed.</hi> as oppoſed to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is onely a deſire in oppoſition to God his magnificence and glory, that he might be acknowledged as King no longer, but that they may be under men, who would not rule with the like juſtice, but give a greater liberty to ſinners in their lives, to live after their luſts and licentiouſneſs. It was blaſphe<g ref="char:EOLhyphen"/>my in the Jews account, that Chriſt, as they thought a meer man, made himſelf equal with God. Now men make themſelves equal with God many ways.</p>
+            <p>That the truth of this may appear.</p>
+            <p>
+               <hi>Exod.</hi> 22.28. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Thou ſhalt not revile,</hi> blaſpheme, or lightly eſteem <hi>the Elohim.</hi> By which was underſtood the Judges, who were Gods deputies. For which very fact, by the Law, it was death. Now if it be death to blaſpheme the Deputy of the King, how then to blaſpheme the King himſelf!</p>
+            <p n="1">1. This is illuſtrated in <hi>Gaal</hi> and his brethren, <hi>Judg.</hi> 9.27, 28. who in the houſe of their Elohims eat and drink; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and made light of <hi>Abimelech,</hi> or blaſphemed <hi>Abimelech,</hi> ſaying thus: <hi>Who is Abimelech, or who is Shechem, that we ſhould ſerve him? is be not the ſon of Jerubbaal, and Zebul his officer? Serve the men of Hamor, and the father of Shechem; for why ſhould we ſerve him?</hi> Verſ. 29. <hi>Would to God this people were under my hand, then would I remove Abimelech.</hi> Note well, he vilifies <hi>Abime<g ref="char:EOLhyphen"/>lech,</hi> to ſet up himſelf in his place onely. A thing natural, ariſing out of an unſound heart to God.</p>
+            <p n="2">2. In <hi>Shimei,</hi> 2 <hi>Sam.</hi> 16.5. <hi>He came forth, and curſed</hi> or blaſphemed <hi>ſtill as he came;</hi> which God explains, verſ. 7. <hi>And thus ſaid Shimei when he curſed: Come out, come out, thou bloody man, and man of Belial.</hi> Verſ. 8. <hi>The Lord hath returned on thee all the blood of the houſe of Saul, in whoſe ſtead thou haſt reigned. And the Lord hath delivered the kingdom into the hand of Abſalom thy ſon, and behold, thou art taken in thy miſchief, becauſe thou art a bloody man.</hi> Verſ. 9. for which <hi>Abiſhai</hi> calls him <hi>dead dog:</hi> as a dog, he barking; and as dead, being by the Law condemned to die; and therefore would have cut off his head.</p>
+            <p>
+               <hi>Note</hi> In this of <hi>Shimei</hi> were many blaſphemies or curſes: he did it all the way as he came.</p>
+            <p n="1">1. Diſhonouring him, by calling him <hi>man of bloods.</hi>
+            </p>
+            <pb n="4" facs="tcp:118134:5"/>
+            <p n="2">2. By ſaying that he was a childe of <hi>Belial,</hi> or of the devil, one that was not under the yoke of God's law, and ſo unfit to rule. And ſo the reſt, as deprecations.</p>
+            <p>But <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what <hi>Abiſhai</hi> ſaid, when he humbled himſelf to <hi>David,</hi> 2 <hi>Sam.</hi> 10 22. <hi>Shall Shimei not die for this?</hi> As if he had ſaid, Shall this ſerve his <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for curſing the Anointed of JEHOVAH?</p>
+            <p>Which proves that the Magiſtrate may paſs by reproaches caſt on him<g ref="char:EOLhyphen"/>ſelf, ſo that God be not concerned therein: but if God be directly con<g ref="char:EOLhyphen"/>cerned in the blaſphemy of any, he might not. <hi>Acts</hi> 6.11. It is <hi>Moſes</hi> and God.</p>
+            <p>Now <hi>Abab,</hi> to prove <hi>Naboth</hi>'s death juſt, and that none ſhould be found to intercede for him, ſets up witneſſes to ſay he blaſphemed not the King onely, but <hi>God and the King;</hi> which man could not pardon, <hi>Levit.</hi> 24.14.15. Yea, note, 1 <hi>King.</hi> 21.10. the witneſſes were ſons of <hi>Belial.</hi> men with whom God or his Law were of no eſteem, who yet cover their im<g ref="char:EOLhyphen"/>piety with ſeeming zeal of God, by not ſaying <hi>He curſed God,</hi> but, <hi>Thou bleſſedſt God,</hi> by the contrary word, as that the people ſhould think they to honoured God and his Law, that they were afraid to mention the word <hi>curſe</hi> before them, as not to be named.</p>
+            <p>Not to paſs by <hi>Shimei</hi> in his end for curſing <hi>David,</hi> 1 <hi>King.</hi> 2.7, 8, 9. he was the laſt man <hi>David</hi> gave <hi>Solomon</hi> charge of, <hi>that he bring him to the grave in blood</hi> for it: who for breaking the Oath of God after, verſ. 43, 44. was ſlain by <hi>Benaiah.</hi>
+            </p>
+            <p>The Heathens puniſhed blaſphemy of their gods: <hi>Acts</hi> 19.37. freely proves it.</p>
+            <p>Again, as to vilifie God, or the Magiſtrate, Gods deputy, was death; ſo for the childe to vilifie his father, it is death alſo, <hi>Exod.</hi> 21.17. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or, <hi>the deſpiſer of his father or mother ſhall die.</hi> Which ſentence of the Law Chriſt confirms in the Goſpel, <hi>Mat.</hi> 15.4. and renders <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>evil ſpeaking to</hi> or of <hi>his father or mother.</hi> How much more ſhall he evil ſpeaks of God die?</p>
+            <p>The advice of <hi>Solomon,</hi> Eccleſ. 10.20. <hi>Deſpiſe not the King in thy con<g ref="char:EOLhyphen"/>ſcience, and in thy lodging chamber deſpiſe not the rich. A bird of the air will carry the voice of it, and on its wings ſhall the thing be declared.</hi> Now if a man ſhould fear to deſpiſe man in the ſecret of his conſcience, how ſhould man fear to deſpiſe God the King in his thoughts or conſcience, ſince he needs no birds nor wings to reveal it, but knows them long before they were within man, and needs not any to teſtifie of what is in man? <hi>Pſal.</hi> 139.2.</p>
+            <p>Again, not to puniſh Blaſphemy, is a dangerous thing. 1 <hi>Sam.</hi> 3.13. <hi>For I have told him, that I will judge his houſe for ever, for the iniquity which he knoweth, becauſe his ſons are to themſelves blaſphemers,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>and he reſtrained them not;</hi> who was he that then judged <hi>Iſrael.</hi> That is, by their abuſe of their truſt, they made the people to ſlight them, to vilifie them, and deſpiſe them: for which neglect of <hi>Eli,</hi>
+               <pb n="5" facs="tcp:118134:5"/>and his ſons ſin, God judged his houſe for ever, that it ſhould not be pur<g ref="char:EOLhyphen"/>ged by ſacrifice nor offering for ever. The 70 read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>Eccleſ.</hi> 7.21. God would not have the Maſter give heed, though he heard his ſervant ſlight him, vilifie him, or curſe him, verſ. 22. and that becauſe his own heart knows he oft-times had curſed others.</p>
+            <p>Hear <hi>England,</hi> hear alſo ye Magiſtrates, <hi>Ezek.</hi> 22.7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>In thee the father and mother are made ſlight of:</hi> or, as we read, <hi>In thee have they ſet light by father or mother;</hi> by God, his Law and Rule.</p>
+            <p>And it is not to be paſt by, that to men in Covenant the bleſſings and curſes are to be often read that are annexed to the Law, <hi>Deut.</hi> 11.26. <hi>Joſh.</hi> 8.24. as inforcements to obedience, and from diſobedience.</p>
+            <p>As for the third Commandment, I read it thus: <hi>Thou ſhalt not bear the name of Jehovah thy Elohims for nothing, for a vain thing,</hi> or <hi>for a lye.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> bears either expreſſion.</p>
+            <p>Again, I read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Thou ſhalt not bear,</hi> and not <hi>Thou ſhalt not take from the Prophets,</hi> who call their prophecies <hi>The bur<g ref="char:EOLhyphen"/>den of the Lord,</hi> Hab. 1.1. <hi>Mal.</hi> 1.1. Now of any diſcovery of God, the Law is the burden of the Lord, which the people, on the very knowledge thereof, are to bear, God laying it on them, as appears by the acts of Conſcience, in their agreeing with it againſt men themſelves. And when they acknowledge the Law to be God's, then they take it on them as their burden; who yet bear it for a vain thing, againſt the command; and like <hi>Ephraim,</hi> who as a heifer unaccuſtomed to the yoke, kicks againſt the pricks; and having taken the burden on them, would caſt it off again.</p>
+            <p>O <hi>England,</hi> thou haſt the Law, thou owneſt that Law to be Gods; and as God's, thou ſubmitteſt to the teaching thereof, but thy ſelf art not go<g ref="char:EOLhyphen"/>verned by it: in which is a bearing Gods name for nothing, a profeſſing we know God, but in works we deny him.</p>
+            <p>By this Command, the Magiſtrate is to puniſh falſe ſwearing; and in that, there is a great evil committed in the nation by ſwearing men. Note that the oath of God was miniſtred onely in caſes where was want of wit<g ref="char:EOLhyphen"/>neſſes to aſſiſt in judgement, and not elſe; as in <hi>Exod.</hi> 22.8, 9, 11. Caſes to prove the practice in all other like kindes.</p>
+            <p n="2">2. It was never the minde of God that Witneſſes and Juries ſhould be ſworn at all: they were appointed for tryal of things by matter of fact, proved by teſtimony of men that ſaw it.</p>
+            <p>The one is commanded in the third Command; the other in the ninth.</p>
+            <p>The ones puniſhment is by Retaliation; the others, by Satisfaction.</p>
+            <p>So that it is a ſad thing to ſwear Conſtables, Churchwardens, Officers, Juries, Witneſſes, that God hath not appointed; becauſe, if they ſwear falſly, they ſin againſt their ſouls, a ſin to death; and ſo it becomes a grie<g ref="char:EOLhyphen"/>vous ſnare to men. 1 <hi>Kings</hi> 2.43, 44.</p>
+            <p>In which comes to be conſidered the Magiſtrates juſt authority to give unto men the oath of God, not onely about things loſt, <hi>&amp;c.</hi> but <hi>Neh.</hi> 13.25.
+<pb n="6" facs="tcp:118134:6"/>
+               <hi>he made the Jews ſwear by God that they ſhould not give their ſons, nor take their daughters to their ſons or themſelves:</hi> which before they had done, and was againſt the Covenant.</p>
+            <p n="1">1. To binde them from future breach thereof, he ſwore them by God.</p>
+            <p n="2">2. So that if after they had done the ſame, they had died not for mar<g ref="char:EOLhyphen"/>rying, but for breaking the Oath of God.</p>
+            <p n="3">3. He could not have put them to the Oath, but that they broke the Covenant; when the Oath was inſtituted to preſerve it, and men from breach of it, or it was death to them.</p>
+            <p n="4">4. They promiſed not to do it more: and for confirmation of their promiſe, he required an Oath of them, <hi>Nehem.</hi> 10.28, 29, 30. <hi>Lev.</hi> 5.4. was not an Oath put on men by a Magiſtrate.</p>
+            <p n="5">5. It is true, that the thing that was committed to a man, and he hid it, and ſware falſly to conceal it, was to be reſtored, and a fifth part to it, becauſe it was committed to his truſt; and violently, as in caſe of theft, he took it not out of the owners poſſeſſion, <hi>Lev.</hi> 6.3, 5.</p>
+            <p n="6">6. Leagues with people are confirmed by Oath, <hi>Joſh.</hi> 9.15. See how it was kept, verſ. 19, 20. And the ſin of the Princes is reproved, in making their League, v. 14. They were curſed for their deceit in ſwearing, v. 22, 23.</p>
+            <p>It is a very remarkable caſe, that the Iſraelites were not to cauſe to ſwear by the name of Idol-gods, <hi>Iſa.</hi> 65.16. <hi>Joſh.</hi> 23.7.</p>
+            <p>See how God revenged the breach of the Oath by <hi>Saul</hi> with the Gibe<g ref="char:EOLhyphen"/>onites, 2 <hi>Sam.</hi> 21.2. In that verſ. 1. there was famine three yeers for <hi>Saul</hi>'s ſlaying them. The Gibeonites muſt have ſatisfaction, <hi>David</hi> muſt give it: which was not in ſilver or gold, verſ. 6. Seven men of <hi>Saul</hi>'s ſons muſt be delivered them, and they hanged them up to the Lord in <hi>Gibeah of Saul:</hi> when the love of <hi>Riſpah</hi> was ſuch, that ſhe continued with the carcaſes a long time, keeping the fowls by day, and beaſts by night from them; who was <hi>Saul</hi>'s concubine. After which, God was intreated for the land.</p>
+            <p>Yea the Covenant on mans part was done to God by an Oath, 2 <hi>Chron.</hi> 15.14, 15. <hi>Ezra</hi> 10.3, 5. <hi>Neh.</hi> 10.29. and by a curſe, by the Prince of the peoples writing, and ſealing to it, <hi>Nehem.</hi> 9.38.</p>
+            <p>But to return to the ſecond word uſed of the Spirit to ſet out blaſphe<g ref="char:EOLhyphen"/>my by, and that is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which properly is applyed to the boring, hollowing, or taking forth the ſubſtance of a thing; and fitly agrees with taking God's Name for vain, or a making it nothing, empty, and inſub<g ref="char:EOLhyphen"/>ſtantial.</p>
+            <p>Againſt this Command, is the deſpiſing of the Law, as well as authori<g ref="char:EOLhyphen"/>ty of God; of which ſays <hi>Paul</hi> (Heb. 10.28.) <hi>He that deſpiſed Moſes law, died without mercy.</hi>
+            </p>
+            <p>And it is blaſphemy for men to ſay of the Law of God, It is inſufficient to rule men by, It's no fit government for people is contained in the word; and to ſay that any other is as good or better then that; or to ſay it is too ſevere, too hard, too ſtrict: they take out the ſubſtance of the Law, hol<g ref="char:EOLhyphen"/>low it, and make it nothing.</p>
+            <p>
+               <hi>Deut.</hi> 17.12. <hi>The man that will do preſumptuouſly, not hearkning to the
+<pb n="7" facs="tcp:118134:6"/>judge, that man ſhall die:</hi> which was in a difficult caſe onely. What is it then not to hearken to the Law in clear caſes? And proves, that for the diffi<g ref="char:EOLhyphen"/>cult caſes may ariſe or be ſuppoſed to be, the Law is not to be layd aſide, becauſe though we ſee them not ſtated in the Law, God doth admit that men ſearch the Word, and ſee his wiſdom in it.</p>
+            <p>Of this ſin of Preſumption, ſee <hi>Numb.</hi> 15.30, 31. The ſoul that doth ought preſumptuouſly (which is to be underſtood in judgement, or actions that do appertain thereunto, when they do them otherwiſe then God commands in his Word) 1. Reproacheth the Lord in his authority over them. 2. He deſpiſeth the Word of the Lord. 3. He hath broken his Command: to which the word <hi>deſpiſed</hi> did pertain, for which the ſoul was to be cut off; and is a word concerns Judges and Judgment primarily.</p>
+            <p>Now as it is Blaſphemy to impair the Law of its glory, to take ought from it; ſo is it much more blaſphemy to take from the name of God in his Authority or Soveraignty in like kinde, and according to God. Herein, great and grievous is the blaſphemy that is committed in the Nation dai<g ref="char:EOLhyphen"/>ly: the Lord pardon it, as done in ignorance among us: yet the Law ſaith, <hi>The Lord will not he be free from puniſhment that beareth his name for nothing:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>guiltleſs,</hi> or <hi>puniſhleſs.</hi>
+            </p>
+            <p>As for the third word, it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and anſwers to the Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as ſignifying imprecations.</p>
+            <p>The word is an expreſſion of a Superiour to an Inferiour, and uſually accompanies power and authority; as Chriſt in curſing the figtree.</p>
+            <p>By this word God curſed the earth, <hi>Gen.</hi> 5.14, 17, 29. and he curſed the Serpent by it. By this word he declares thoſe curſed that curſe his peo<g ref="char:EOLhyphen"/>ple, <hi>Gen.</hi> 12.3. By this word, the curſes on breach of Covenant were threatned, <hi>Deut.</hi> 27.15, 16, 17, 18, 19, 20. The rebuilder of <hi>Jericho</hi> was cur<g ref="char:EOLhyphen"/>ſed by this word, <hi>Joſh.</hi> 6.26. and thoſe do the work of God negligently, <hi>Jer.</hi> 48.10.</p>
+            <p>In one place, <hi>Exod.</hi> 22.28. the inferiour hereby is forbid to curſe the Prince of the people; which yet Inferiours may do to men like themſelvs, though not to God: that is, blaſt them in their names, through the infir<g ref="char:EOLhyphen"/>mities abide in man. The word alſo, as the 70 render it, may be read, <hi>Thou ſhalt not ſpeak evil of the ruler of thy people.</hi>
+            </p>
+            <p>Men by this word are not ſaid to blaſpheme God or his Name in the holy Scripture; and in the New Teſtament by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> 2.24.</p>
+            <p>The ground and riſe of Blaſphemy, as committed againſt the Name of God in the third Command, in the ſlighting of the rule, government, au<g ref="char:EOLhyphen"/>thority, law, or covenant of God, is this, That therein the Attributes of God are concerned: ſo that in the deſpiſing of the one, the other alſo is deſpiſed, ſet at naught, vilified, and diſhonoured; and the glory of God taken from him, and beſtowed on ſome other.</p>
+            <p n="1">1. He that ſays the Law of God is not a ſufficient rule, and that there needs the Prudentials of men to compleat it, ſets at nought the wiſdom of God, who would make ſuch a Law as was deficient for the end he made
+<pb n="8" facs="tcp:118134:7"/>it: &amp; ſo diſhonors him in the glory of his wiſdom, and makes man to men more glorious, in that he muſt come and give it its beauty of perfection.</p>
+            <p n="2">2. He that ſays it is too ſevere, condemns God in his mercy, and ren<g ref="char:EOLhyphen"/>ders him as a Tyrant to man, as ruling by power onely; in which fear and ſervility is begot in man, and love deſtroyed, which is the ground of obe<g ref="char:EOLhyphen"/>dience, and the fulfilling of the Law; and the other, of diſobedience.</p>
+            <p n="3">3. He that ſays it is a law to the Jews onely, denies his Soveraignty, as if he were God of the Jews onely, and not of the Gentiles alſo.</p>
+            <p n="4">4. He that ſaith it's onely a ground of Law, or a rule to make Laws by, but not a Law to govern men by, bores the Law, hollows it, and makes it empty and void, yea a lye, and God a lyer to man, who enjoyned men not to turn from it to the right or left hand: Or denies Gods goodneſs to the Gentiles, who was ſo good, kinde, and careful of the Jews, as to give them a Law fitting them; but as for the Gentiles, he reſpected not them ſo as to give them any Law at all: Or elſe deſpiſe his goodneſs to the Jews, who in giving them a Law, and ruling over them, did it by ſuch a Law as was unfit to be a Law to men; and ſo become <hi>judges</hi> of the Law, and not <hi>doers</hi> of it, <hi>James</hi> 4.11. But, as Chriſt ſaid in another caſe, <hi>Judge not ac<g ref="char:EOLhyphen"/>cording to appearance, but judge righteous judgement:</hi> that men come not to make themſelves God, <hi>Joh.</hi> 10.36.</p>
+            <p n="5">5. They that ſay their own humane law is fitter and better for them then the Law of God, deſpiſe God and his Law in the glory of his Will, that would give them no fitter; and in the glory of his goodneſs and pru<g ref="char:EOLhyphen"/>dence, that would in giving a Law give them no better.</p>
+            <p n="6">6. They that ſay they ought not to be under God's Law, but their own, deſpiſe his power, rule, and authority, and thruſt him from them, ſaying, <hi>We will not have thee to rule over us.</hi>
+            </p>
+            <p n="7">7. They that ſlight the ſetting up of the Covenant in the Nation with God, ſet God at naught, deſpiſe the promiſes annexed to the Covenant, and intail the curſes on themſelves and poſterity, caſting them and theirs out of his protection, to be devoured of their enemies, who may ſay, Perſe<g ref="char:EOLhyphen"/>cute and take them: there is none now to deliver them; God, who ſhould be their glory, is departed from them.</p>
+            <p n="8">8. If any ſhould be ſo profane as to ſay that the Law is not juſt nor ho<g ref="char:EOLhyphen"/>ly, he robs God of the glory of his holineſs, and contradicts the Spirit of God in the Goſpel, which ſays that <hi>the Law is holy, juſt, and good,</hi> Rom. 7. <hi>Wherefore the Law is holy, and the Command holy, juſt, and good.</hi>
+            </p>
+            <p>Note it well; the <hi>Command</hi> is not onely holy, juſt, and good, but the <hi>Law Judicial</hi> alſo, that depends on that Command: both are by the Spirit in the Goſpel, and by the Goſpel, commended, owned, and eſta<g ref="char:EOLhyphen"/>bliſhed to Gentiles, <hi>viz.</hi> the Romanes as well as Jews.</p>
+            <p n="9">9. If it be <hi>Crimen laeſae Majeſtatis</hi> to ſay of the Supreme authority of a Nation, It is bloody, tyrannical, uſurped, unjuſt, childiſh, unfit, <hi>&amp;c.</hi> how then for a man to ſay ſo of God himſelf in his Law and Government? in all which is a denying God to be God, and mans ſubjection to, and his acknowledgement of him as ſuch: Or to wiſh the Government of God ill, as that it might never be, is blaſphemy, yea a curſing the name of God.</p>
+            <pb n="9" facs="tcp:118134:7"/>
+            <p>Again, if you live by Gods Law, and teach that for Law, ye muſt judge by it: if ye judge by it, ye muſt puniſh by it, <hi>Act.</hi> 23.3.</p>
+            <p>In the Ordinance of Lords and Commons dated <hi>May</hi> 2. 1648. againſt Blaſphemy, 1. It is mentioned as an errour for men to ſay that <hi>the Moral Law or Ten Commands is not a rule of Chriſtian life:</hi> when indeed the rule of the Chriſtians life is more ſpiritual: not onely, <hi>Thou ſhalt not kill;</hi> but, <hi>Thou ſhalt not be angry with thy brother without cauſe,</hi> nor ſay <hi>Thou fool to him:</hi> and <hi>Thou ſhalt not commit adultery</hi> is not enough; but, <hi>Thou ſhalt not luſt.</hi>
+            </p>
+            <p>Indeed it ſhould have been ſet down Blaſphemy, for men to ſay the Di<g ref="char:EOLhyphen"/>vine Law is no Law; and that men are not to ſubmit to it, but live as they liſt.</p>
+            <p n="2">2. It is by that Ordinance blaſphemy to ſay <hi>There is no God, or that he is not everywhere, or not omniſcient, eternal: That the Father, Son, and Spi<g ref="char:EOLhyphen"/>rit, are not one God.</hi>
+            </p>
+            <p>Now Blaſphemy againſt God in the Law chiefly relates to him as King of a kingdom, ſupreme of a people, Judge of breach of his Law: and ſo as God is in the Law, the Judges are called <hi>Elohim.</hi> That blaſphemy is rather againſt his juſtice, authority, power, rule, law, and government, and his attributes ſecondarily in them.</p>
+            <p n="3">3. As for the reſt of the Ordinance, it is againſt Church-blaſphemy, Herefie and Errour, which the Magiſtrate was not to judge or puniſh with the Civil ſword by the Law in death, but the Church with the ſword of the Spirit by Excommunication: as the denial of the manhood of Chriſt, or the two natures of Chriſt, or the unſpottedneſs of his humanity: the deny<g ref="char:EOLhyphen"/>al of his death, his reſurrection or aſcenſion into heaven; or that he is not the Son of God: the denyal of the Canonical Scriptures to be the Word of God, or the Reſurrection, or the Laſt Judgement, or that Chriſts death is not meritorious.</p>
+            <p n="1">1. The Law puniſheth no man for any of theſe; nor doth it condemn it.</p>
+            <p n="2">2. Nor doth the Goſpel puniſh any man with impriſonment or death, nor convict any man of felony.</p>
+            <p>In the Act theſe Truths are called Errours, and thoſe profeſſed them adjudged to impriſonment, or inforced to deny them, which is worſe.</p>
+            <p n="1">1. The denyal of Infant-baptiſm; which is agreeable to the precepts, practice, and qualifications required in men to be diſcipled.</p>
+            <p n="2">2. To ſay the ſoul lieth in the grave; which by <hi>Acts</hi> 2.31. is the truth of God, though the Spirit indeed goeth immediately to God. Of this ſee my Treatiſe <hi>of Soul, Spirit and Body.</hi>
+            </p>
+            <p n="3">3. Or that men baptized in infancy muſt be again baptized; when ſure if that Pedobaptiſm be not of Chriſt, it is no baptiſm: and ſo if a man will be baptized, he muſt ſubmit to it in the way of God.</p>
+            <p n="4">4. To ſay the obſervation of the Lords day as injoyned by the Law of the Land, is not according to Gods word, or contrary to it.</p>
+            <p n="5">5. Or to ſay the Church of <hi>England</hi> is not a true Church, the Mini<g ref="char:EOLhyphen"/>ſtery a true Miniſtery, or the Ordinances not true Ordinances.</p>
+            <p n="6">6. Or that the Presbyterian Government is Antichriſtian.</p>
+            <p>I made bold to mention this Ordinonce, 1. becauſe thereby a ſnare
+<pb n="10" facs="tcp:118134:8"/>was laid for me from theſe laſt ſuppoſed Errors: but my Adverſary giv<g ref="char:EOLhyphen"/>ing me notice of it, it was broken, and I eſcaped.</p>
+            <p n="2">2. To ſhew how dangerous a thing it is for men to be Law-makers in the Face of Gods Law. I believe many that had a hand herein, in heart are now ſorry for it; who then acted as then were led by their own reaſon and others perſwaſion.</p>
+            <p n="3">3. Conſider, when things are not of God, in theſe times, they are quickly laid aſide; and therefore men in Authority and power ſhould be wiſe in doing what they do, that it be of God, that their labour come not to nothing, or worſe then nothing; and ſtill to mind, that he that is not with God, is againſt him: there is no indifferency or <hi>Medium</hi> in the thing.</p>
+            <p n="4">4. I could ſhew how in this Ordinance againſt Blaſphemy, Hereſie and Error, is Blaſphemy, Error and Hereſie; ſo unfit is man to preſume above himſelf to act in the work of God, and not reſt in his will as revea<g ref="char:EOLhyphen"/>led in his word.</p>
+            <p n="5">5. I cannot paſs by counſelling men to take heed of cenſuring God in his Juſtice condemning the man for picking Sticks on the Sabbath, for appointing death to Idolatry, Blaſphemy, diſhonouring of Parents, <hi>&amp;c.</hi> for in it is high Blaſpemy; and if the Magiſtrate ſhould not execute it, he bears the name, that is, the Authority of God for nothing: and as <hi>Saul</hi> (ſent againſt <hi>Amalek</hi>) would ſpare the beſt, and thought the judgement too ſevere, was juſtly cut off from the Kingdom for it, and had this tingling ſpeech of God for it, 1. <hi>Sam.</hi> 15.23. <hi>Rebellion is as the ſin of witchraft, and ſtubbornneſs is an iniquity and idolatry: becauſe thou hast re<g ref="char:EOLhyphen"/>jected the word of the Lord, he hath alſo rejected thee from being King,</hi> This is Blaſpemy againſt God in his juſtice, and concernes the People in diſputing it, and the Magiſtrate in his neglect of executing it; which not to do, is Rebellion, as divination is; when to execute Gods decree is better then ſacrifice. <hi>Sauls</hi> rebellion is here compared to divination, in that it coms from Satan, yet pretends to divine light &amp; power. So <hi>Sauls</hi> ſparing the Cattle to ſacrifice, ſeemed better to them then Oods command, and bewitched them from obedience to God; their own wayes inclining them from it, as <hi>Rom.</hi> 10.3. <hi>Being ignorant of the justice of God, they ſought to eſta<g ref="char:EOLhyphen"/>bliſh their own justice; and ſo they ſubmitted not to the Justice of God.</hi> By this ignorance they could not be ſaid to ſtand in rebellion againſt God, as <hi>Saul,</hi> that knew it, by this word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Ezek.</hi> 21.21. The King of <hi>Babel</hi> at the Mother of the way, where two wayes were di<g ref="char:EOLhyphen"/>vined by Augury which he ſhould go: ſo men having before them Gods way and mans, do (as he) divine which is beſt, profitableſt, moſt accep<g ref="char:EOLhyphen"/>table to the People, and ſafeſt and eaſieſt to be undertaken: which to God is as the King of <hi>Babels</hi> divination, and inquiry at the Teraphim, and looking into the Liver of the Beaſt, and neglecting the counſell of God and his being to them. This may ſeem harſh to be ſpoke, as to him <hi>Amos</hi> 7.10, 11, 12, 13, 14, 15, 16, 17. but if I ſhould ſay leſs then the truth, I ſhould be unfaithful to God and man, and an Enemy to my own
+<pb n="11" facs="tcp:118134:8"/>peace: I muſt therefore do it, and in doing it, I do it in love, and in good will, to the ſafety of all men. God is witneſs, and my heart alſo, that I envy no man, but wiſh all good to my very Enemies, and God his glory and praiſe among us in all I write; how then to theſe preſerve me under God?</p>
+            <p>Again, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which we read <hi>Rebellion,</hi> Rabbi <hi>David Tranſgredi voluntatem Dei;</hi> and ſo the trangreſſor of Gods will is a lye, of Teraphim, that is, as the Idol into which Idolaters in divinations in<g ref="char:EOLhyphen"/>ſpected for direction in their undertakings, which was a lye to them: the Root <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies <hi>cogere,</hi> and ſhews that he that compels any thing againſt God, is as the Teraphim, to ſet out a falſe way to man as by a divination, like <hi>Jeroboams,</hi> who made Iſrael to ſinne.</p>
+            <p>As concerning the Act, in it are conſiderable the Law, the ſinne, the puniſhment: and of the preſent Authority I earneſtly beg, as if God by me deſired them to take heed what they do in making Laws: and let the Acts made by <hi>Hen.</hi> 8. and ſince, ſo much againſt God, be an admonition to them, that they give up their account to God for their great truſt with joy, and not with ſorrow in that day.</p>
+            <p>The Act was made <hi>August</hi> 9. 1650. it mentions unheard-of Blaſphemies, even not to be named among the Heathens; when yet the Root of Blaſ<g ref="char:EOLhyphen"/>phemy, and that the Law condemnes, is not mentioned; as, to de<g ref="char:EOLhyphen"/>ny God his dominion and ſoverainty over us as King or Judge, and his rule in the Law. If theſe had been puniſhed as God requires; the reſt, which come from thence, as from the Root of bitterneſs, and the Womb of Hell, had never been heard of; which now as a leproſie overſpreads the Nation.</p>
+            <p>As for its puniſhments, That they be ſent to the houſe of correction, and bound to good behaviour, the firſt time, baniſhment the ſecond time, and their return be death, without benefit of Clergy: as for the ſinne, it is ſuch, that the houſe of correction is not an equal puniſhment; not can men be bound for him he ſhall do no ſuch offence: and to baniſh him, is to defile others no leſs evil before God then our ſelves, but may prove worſe; and at laſt to put him to death as a Felon or tranſgreſſor of mans Laws and not Gods, is no way aceptable to God at all.</p>
+            <p>As for the Act againſt ſwearing by God, or by his Attributes, the peo<g ref="char:EOLhyphen"/>ple of God uſed it in truth, and may do, as <hi>Paul</hi> did, yea, on civil and ordinary occaſions, ſo that it be done in fear: and men doing it in that kind, ought not to be liable to pecuniary mulcts. For the calling of God for witneſs in truth, may be done as lawfully, as to do it in judgement, as the word of God abundantly witneſſeth: it's part of Gods ſervice, <hi>Deut.</hi> 6.13. <hi>Jerem.</hi> 4.2.</p>
+            <p>But when it is not done in reference to the end of an Oath, in righteouſ<g ref="char:EOLhyphen"/>neſs, but helliſhly, vainly, profanely, then there is a taking Gods name in vain, and men to be puniſhed as the Law injoines, and no otherwiſe, <hi>Lev.</hi> 19.19. <hi>Ye ſhall not ſwear by my Name falſly, nor prophane the Name of
+<pb n="12" facs="tcp:118134:9"/>thy God:</hi> If they ſwear falſly, they are penable; or if prophanely without conſcience or fear.</p>
+            <p>Or if men ſwear by them are no Gods, <hi>Jer.</hi> 5.7. in which civil converſe as well as Gods glory is deſtroyed.</p>
+            <p>Right honourable, conſult in the truth of God, and that will ſhew you, as in a glaſs, what is to be done by you, and what men miſcarried in that were before you. The word is better then the Urim and Thummim, the lights and perfections the high Prieſt enquired at. Whoever among you fear God, and love his name, looking for ſalvation by him, cannot but give entertainment to what is written in his word, to which I commend you all, as to the onely light, by which in ſafety you may receive directi<g ref="char:EOLhyphen"/>ons from, and give ſtability to your undertakings; remaining, as before,</p>
+            <closer>
+               <signed>Your ſervant in God and his truth <hi>John Brayne.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
